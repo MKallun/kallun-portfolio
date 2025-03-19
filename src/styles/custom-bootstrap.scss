@@ -1,0 +1,20 @@
+/* Import Bootstrap functions, variables, and mixins */
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/maps";
+@import "~bootstrap/scss/mixins";
+
+/* Custom theme colors */
+$theme-colors: (
+  "primary": #0062cc,
+  "secondary": #6c757d,
+  "success": #28a745,
+  "info": #17a2b8,
+  "warning": #ffc107,
+  "danger": #dc3545,
+  "light": #f8f9fa,
+  "dark": #343a40,
+);
+
+/* Import Bootstrap */
+@import "~bootstrap/scss/bootstrap";
