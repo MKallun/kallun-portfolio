@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kallun-portfolio/static/css/main.6dea0cfc.css",
+    "main.js": "/kallun-portfolio/static/js/main.9e7bf4e3.js",
+    "static/js/453.43631de8.chunk.js": "/kallun-portfolio/static/js/453.43631de8.chunk.js",
+    "static/media/BON.jpg": "/kallun-portfolio/static/media/BON.21fc49800872e1b0af20.jpg",
+    "static/media/RBX-icon.png": "/kallun-portfolio/static/media/RBX-icon.041250948c450dfadd14.png",
+    "static/media/Sino-icon.jpg": "/kallun-portfolio/static/media/Sino-icon.c796328aaf825a02544a.jpg",
+    "static/media/SinoPY-icon.png": "/kallun-portfolio/static/media/SinoPY-icon.d3adf66979536a04ed84.png",
+    "index.html": "/kallun-portfolio/index.html",
+    "main.6dea0cfc.css.map": "/kallun-portfolio/static/css/main.6dea0cfc.css.map",
+    "main.9e7bf4e3.js.map": "/kallun-portfolio/static/js/main.9e7bf4e3.js.map",
+    "453.43631de8.chunk.js.map": "/kallun-portfolio/static/js/453.43631de8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dea0cfc.css",
+    "static/js/main.9e7bf4e3.js"
+  ]
+}
